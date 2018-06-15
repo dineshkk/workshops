@@ -1,6 +1,6 @@
-#
-Workshops
-##Docker Conference 2018
+#Workshops
+
+Docker Conference 2018
 
 Hands on Labs for DockerCon US 2018
 https://github.com/dineshkk/dcus-2018-hol
